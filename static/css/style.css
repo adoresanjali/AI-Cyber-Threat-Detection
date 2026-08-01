@@ -1,0 +1,176 @@
+/* AI Cyber Threat Detection System - Dark Theme */
+
+body {
+    background: #0d1117;
+    color: white;
+}
+
+.card {
+    background: #161b22;
+    border: 1px solid #30363d;
+}
+
+.card h4, .card h5, .card p, .card label {
+    color: white;
+}
+
+.navbar {
+    background: #161b22;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+/* --- Metric Cards --- */
+.metric-card {
+    border-width: 2px;
+    border-style: solid;
+}
+
+.border-green { border-color: #00ff9d !important; }
+.border-blue { border-color: #3b82f6 !important; }
+.border-orange { border-color: #f59e0b !important; }
+.border-purple { border-color: #a855f7 !important; }
+
+.icon-circle {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #fff;
+}
+
+.bg-green { background: rgba(0, 255, 157, 0.15); color: #00ff9d; }
+.bg-blue { background: rgba(59, 130, 246, 0.15); color: #3b82f6; }
+.bg-orange { background: rgba(245, 158, 11, 0.15); color: #f59e0b; }
+.bg-purple { background: rgba(168, 85, 247, 0.15); color: #a855f7; }
+
+.metric-title {
+    color: #8b949e;
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+.metric-value {
+    color: #00ff9d;
+    font-weight: bold;
+    font-size: 2.2rem;
+}
+
+/* --- Buttons --- */
+.btn-green {
+    background: #22c55e;
+    color: white;
+    border: none;
+    font-weight: 600;
+    padding: 12px 0;
+    border-radius: 5px;
+}
+
+.btn-green:hover {
+    background: #16a34a;
+    color: white;
+}
+
+.btn-orange {
+    background: #f59e0b;
+    color: white;
+    border: none;
+    font-weight: 600;
+    padding: 12px 0;
+    border-radius: 5px;
+}
+
+.btn-orange:hover {
+    background: #d97706;
+    color: white;
+}
+
+.btn-primary {
+    background: #1f6feb;
+    color: white;
+    border: none;
+    font-weight: 600;
+    padding: 12px 20px;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    background: #388bfd;
+    color: white;
+}
+
+.btn-danger {
+    background: #da3633;
+    color: white;
+    border: none;
+    font-weight: 600;
+    padding: 12px 20px;
+    border-radius: 5px;
+}
+
+.btn-danger:hover {
+    background: #f85149;
+    color: white;
+}
+
+/* --- Inputs --- */
+textarea, 
+input[type="file"], 
+.form-control, 
+.form-control:focus {
+    background-color: #0d1117 !important;
+    color: #ffffff !important;
+    border: 1px solid #30363d !important;
+    box-shadow: none !important;
+}
+
+textarea::placeholder {
+    color: #8b949e !important;
+}
+
+input[type="file"]::file-selector-button {
+    background: #0d1117;
+    color: white;
+    border: 1px solid #30363d;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+input[type="file"]::file-selector-button:hover {
+    background: #161b22;
+}
+
+.text-muted {
+    color: #8b949e !important;
+}
+
+hr {
+    border-color: #30363d;
+}
+
+/* --- Pie Chart --- */
+#pieChart {
+    max-width: 450px;
+    max-height: 450px;
+    margin: auto;
+}
+
+/* --- Dark Theme Success Card --- */
+.dark-success-card {
+    background: #161b22;
+    border: 1px solid #22c55e;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.card h1, .card h2, .card h3, .card h6, 
+.card .h1, .card .h2, .card .h3, .card .h6,
+.card .card-title, .card .card-text,
+.card ul, .card li {
+    color: white !important;
+}
