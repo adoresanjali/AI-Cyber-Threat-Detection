@@ -36,7 +36,7 @@ https://ai-cyber-threat-detection-h0vl.onrender.com
 
 ## 💻 GitHub Repository
 
-https://github.com/Ashish-bytes/AI-Cyber-Threat-Detection
+https://github.com/adoresanjali/AI-Cyber-Threat-Detection
 
 ---
 
