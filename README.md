@@ -278,17 +278,17 @@ The system generates:
 
 # 👨‍💻 Developer
 
-**Ashish Gautam**
+**Anjali Sharma**
 
-Computer Science Engineering Student
+CSE-AI&ML
 
 GitHub
 
-https://github.com/Ashish-bytes
+https://github.com/adoresanjali
 
 LinkedIn
 
-(Add your LinkedIn profile here)
+https://www.linkedin.com/in/anjali-831492344/
 
 ---
 
