@@ -183,11 +183,7 @@ Dashboard + PDF Report
 
 # 🚀 Installation
 
-Clone the repository
 
-```bash
-git clone https://github.com/Ashish-bytes/AI-Cyber-Threat-Detection.git
-```
 
 Move into the project
 
