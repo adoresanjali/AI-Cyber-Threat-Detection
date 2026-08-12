@@ -92,32 +92,39 @@ https://github.com/adoresanjali/AI-Cyber-Threat-Detection
 
 ## Frontend
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
+-HTML5 – Provides the basic structure and layout of the web application.
 
-## Backend
+CSS3 – Used for custom styling, responsive layouts, colors, spacing, and visual design.
 
-- Flask
-- Flask-CORS
+Bootstrap 5 – Provides responsive UI components, grid layouts, cards, buttons, and forms.
 
-## Machine Learning
+JavaScript – Handles API communication, predictions, dashboard updates, analytics, and user interactions.
 
-- Random Forest
-- Scikit-learn
-- Pandas
-- NumPy
+Backend
 
-## AI
+Flask – Powers the backend server, API endpoints, prediction logic, file uploads, and report generation.
 
-- Groq API
-- Llama Model
+Flask-CORS – Enables secure communication between the frontend and Flask backend through cross-origin API requests.
 
-## Deployment
+Machine Learning
 
-- Render
+Random Forest – Main classification algorithm used to detect whether network traffic is normal or malicious.
 
+Scikit-learn – Provides the Machine Learning tools for model training, preprocessing, scaling, prediction, and evaluation.
+
+Pandas – Used for loading, cleaning, processing, and analyzing the NSL-KDD dataset and uploaded CSV files.
+
+NumPy – Supports numerical computations and array-based operations in the Machine Learning pipeline.
+
+AI
+
+Groq API – Provides access to the Llama model for AI-powered cybersecurity threat analysis.
+
+Llama Model – Analyzes ML detection results and generates threat severity, possible attack type, risk assessment, and security recommendations.
+
+Deployment
+
+Render – Used to deploy and host the Flask-based application as a publicly accessible web application.
 ---
 
 # 📂 Project Structure
@@ -182,7 +189,10 @@ Dashboard + PDF Report
 ---
 
 # 🚀 Installation
+Clone the Repository
 
+git clone https://github.com/adoresanjali/AI-Cyber-Threat-Detection.git
+cd AI-Cyber-Threat-Detection
 
 
 Move into the project
@@ -255,6 +265,61 @@ The system generates:
 
 - PDF Threat Report
 - CSV Threat Report
+
+---
+**🎓 Key Learnings**
+
+-Through this project, I gained practical experience in:
+
+-Machine Learning and Random Forest classification
+
+-Data preprocessing and feature scaling
+
+-Flask backend and REST API development
+
+-Frontend and dashboard development
+
+-Generative AI and prompt engineering
+
+-Groq/Llama API integration
+
+-Cybersecurity and intrusion detection
+
+-Error handling and fallback mechanisms
+
+-Git/GitHub and cloud deployment
+
+💡 Biggest Learning
+
+-Building an AI application is not just about training a model.
+
+-I learned how to transform a Machine Learning model into a complete application:
+
+Data
+ ↓
+ML Model
+ ↓
+Backend API
+ ↓
+Web Dashboard
+ ↓
+AI Analysis
+ ↓
+Reports
+ ↓
+Deployment
+
+⚠️ Limitations
+
+The model is trained on the NSL-KDD dataset.
+
+The current system does not capture live network packets.
+
+The ML model primarily performs binary Safe/Threat classification.
+
+AI analysis depends on the Groq API, although fallback logic is available.
+
+The project is intended as an educational/portfolio implementation rather than a production IDS.
 
 ---
 
