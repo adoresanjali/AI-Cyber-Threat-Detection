@@ -92,39 +92,39 @@ https://github.com/adoresanjali/AI-Cyber-Threat-Detection
 
 ## Frontend
 
--HTML5 – Provides the basic structure and layout of the web application.
+**-HTML5** – Provides the basic structure and layout of the web application.
 
-CSS3 – Used for custom styling, responsive layouts, colors, spacing, and visual design.
+**CSS3** – Used for custom styling, responsive layouts, colors, spacing, and visual design.
 
-Bootstrap 5 – Provides responsive UI components, grid layouts, cards, buttons, and forms.
+**Bootstrap 5** – Provides responsive UI components, grid layouts, cards, buttons, and forms.
 
-JavaScript – Handles API communication, predictions, dashboard updates, analytics, and user interactions.
+**JavaScript** – Handles API communication, predictions, dashboard updates, analytics, and user interactions.
 
-Backend
+**Backend**
 
-Flask – Powers the backend server, API endpoints, prediction logic, file uploads, and report generation.
+**Flask **– Powers the backend server, API endpoints, prediction logic, file uploads, and report generation.
 
-Flask-CORS – Enables secure communication between the frontend and Flask backend through cross-origin API requests.
+**Flask-CORS** – Enables secure communication between the frontend and Flask backend through cross-origin API requests.
 
-Machine Learning
+**Machine Learning**
 
-Random Forest – Main classification algorithm used to detect whether network traffic is normal or malicious.
+**Random Forest** – Main classification algorithm used to detect whether network traffic is normal or malicious.
 
-Scikit-learn – Provides the Machine Learning tools for model training, preprocessing, scaling, prediction, and evaluation.
+**Scikit-learn** – Provides the Machine Learning tools for model training, preprocessing, scaling, prediction, and evaluation.
 
-Pandas – Used for loading, cleaning, processing, and analyzing the NSL-KDD dataset and uploaded CSV files.
+**Pandas** – Used for loading, cleaning, processing, and analyzing the NSL-KDD dataset and uploaded CSV files.
 
-NumPy – Supports numerical computations and array-based operations in the Machine Learning pipeline.
+**NumPy** – Supports numerical computations and array-based operations in the Machine Learning pipeline.
 
-AI
+**AI**
 
-Groq API – Provides access to the Llama model for AI-powered cybersecurity threat analysis.
+**Groq API** – Provides access to the Llama model for AI-powered cybersecurity threat analysis.
 
-Llama Model – Analyzes ML detection results and generates threat severity, possible attack type, risk assessment, and security recommendations.
+**Llama Model** – Analyzes ML detection results and generates threat severity, possible attack type, risk assessment, and security recommendations.
 
-Deployment
+**Deployment**
 
-Render – Used to deploy and host the Flask-based application as a publicly accessible web application.
+**Render** – Used to deploy and host the Flask-based application as a publicly accessible web application.
 ---
 
 # 📂 Project Structure
