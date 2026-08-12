@@ -309,7 +309,7 @@ Reports
  ↓
 Deployment
 
-⚠️ Limitations
+**⚠️ Limitations**
 
 The model is trained on the NSL-KDD dataset.
 
